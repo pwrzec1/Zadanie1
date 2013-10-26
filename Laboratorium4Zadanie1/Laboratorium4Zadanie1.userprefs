@@ -1,0 +1,30 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Laboratorium4Zadanie1/SamochódKierowany.cs">
+    <Files>
+      <File FileName="Laboratorium4Zadanie1/Program.cs" Line="38" Column="52" />
+      <File FileName="Laboratorium4Zadanie1/Samochód.cs" Line="10" Column="42" />
+      <File FileName="Laboratorium4Zadanie1/MarkaPojazdu.cs" Line="6" Column="15" />
+      <File FileName="Laboratorium4Zadanie1/SamochódKierowany.cs" Line="80" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Laboratorium4Zadanie1" expanded="True">
+            <Node name="SamochódKierowany.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
