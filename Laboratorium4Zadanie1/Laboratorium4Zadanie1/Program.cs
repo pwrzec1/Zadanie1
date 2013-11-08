@@ -27,6 +27,8 @@ namespace Laboratorium4Zadanie1
             Console.WriteLine("Przykład programowania obiektowego");
             Console.WriteLine("Panda to najlepszy samochód");
 
+            Console.WriteLine("Teraz jednak jest coś lepszego od Pandy");
+
 			Console.Write("Nazwa producenta samochodu ... ? ");
 			NazwaProducenta = Console.ReadLine();
 
