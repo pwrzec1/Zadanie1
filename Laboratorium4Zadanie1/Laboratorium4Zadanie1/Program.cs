@@ -22,13 +22,7 @@ namespace Laboratorium4Zadanie1
 			char ZnakZKlawiatury;
 
 			Console.WriteLine ("Jedźmy samochodem!\n");
-            Console.WriteLine("brum brum!\n\n");
-
-            Console.WriteLine("Przykład programowania obiektowego");
-            Console.WriteLine("Panda to najlepszy samochód");
-
-            Console.WriteLine("Teraz jednak jest coś lepszego od Pandy");
-            Console.WriteLine("Test commitu");
+			Console.WriteLine ("A teraz nowa aktualizacja!");
 
 			Console.Write("Nazwa producenta samochodu ... ? ");
 			NazwaProducenta = Console.ReadLine();
