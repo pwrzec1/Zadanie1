@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 
 /// <summary>
 /// Przykładowe rozwiązanie zadania pierwszego z laboratorium nr 4.
@@ -23,6 +23,7 @@ namespace Laboratorium4Zadanie1
 
 			Console.WriteLine ("Jedźmy samochodem!\n");
 			Console.WriteLine ("A teraz nowa aktualizacja!");
+			Console.WriteLine ("Kolejny przykład aktualizacji!");
 
 			Console.Write("Nazwa producenta samochodu ... ? ");
 			NazwaProducenta = Console.ReadLine();
